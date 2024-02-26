@@ -5,11 +5,11 @@ class ParticleSystem {
         this.radius = random(10, 25);
 
         this.theta = theta;
-        this.hue = map(theta, 0, 2 * PI, 0, 360)
+        this.hue = map(theta, 0, 2 * PI, 0, 10)
     }
 
     update() {
-        this.hue = ((this.hue + this.theta) % 360);
+        this.hue = ((this.hue + this.theta) % 10);
         this.particles.push(new Particle(this.pos.x, this.pos.y, this.hue, this.theta));
 
         for (let particle of this.particles) {

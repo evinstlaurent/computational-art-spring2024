@@ -28,14 +28,12 @@ function draw() {
         pop();
     }
 
+    radius = 150;
+    fill(0, 0, 0);
+    circle(0, 0, radius);
 
-    // The first block of commented out code adds a single black circle and it looks like an eyeball!
-    // The second block of commented out code adds alternating black and white circles in the center with decreasing radii.
-    // I thought it looked cool but chose to stick with no center circles but definitely look at these too they are fun looking!
-
-    // radius = 150;
-    // fill(0, 0, 0);
-    // circle(0, 0, radius);
+    // The block of commented out code adds alternating black and white circles in the center with decreasing radii.
+    // I thought it looked cool but chose to stick with the single black circle but definitely look at this too they are fun looking!
 
     // for (let i = radius; i >= 0; i -= 15) {
     //     if(i % 2 === 0) {
