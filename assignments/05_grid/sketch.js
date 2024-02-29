@@ -4,7 +4,7 @@ let cellWidth;
 let cellHeight;
 
 function setup() {
-    createCanvas(600,600);
+    createCanvas(700,700);
     colorMode(HSB);
     cellWidth = width/numCols;
     cellHeight = height/numRows;
