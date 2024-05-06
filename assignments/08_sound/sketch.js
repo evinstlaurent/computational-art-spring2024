@@ -16,6 +16,7 @@ let cells = [];
 let stars = [];
 let numStars = 4;
 let reverb;
+let distortion;
 
 function preload() {
     bellSample = loadSound("https://evinstlaurent.github.io/computational-art-spring2024/assignments/08_sound/samples/bell.mp3");
