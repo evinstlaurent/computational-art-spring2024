@@ -4,7 +4,7 @@
 The title of my final is **Crabby's Beach Bonanza**. I went with your advice to think of the project as a game, and made a game.
 
 ## Link
-[Link to Crabby's](evinstlaurent.github.io/computational-art-spring2024/assignments/final)
+evinstlaurent.github.io/computational-art-spring2024/assignments/final
 
 ## Five Interconnected Aspects
 1. The x position of the mouse corresponds to the movement and position of the crab player.
