@@ -1,7 +1,7 @@
 # CSC-496 Final Project
----
+
 ## Title
-The title of mu final is **Crabby's Beach Bonanza**. I went with your advice to think of the project as a game, and made a game.
+The title of my final is **Crabby's Beach Bonanza**. I went with your advice to think of the project as a game, and made a game.
 
 ## Link
 [Link to Crabby's](evinstlaurent.github.io/computational-art-spring2024/assignments/final)
